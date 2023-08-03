@@ -1,0 +1,11 @@
+.btn_container button {
+    background: linear-gradient(102deg, rgba(85, 158, 147, 1) 25%, rgba(6, 89, 77, 1) 100%);
+    color: var(--text-primary-dark);
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: none;
+    font-size: 1.2em;
+    border-radius: 5px;
+}
